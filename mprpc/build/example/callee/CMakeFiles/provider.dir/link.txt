@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/provider.dir/friendservice.cc.o CMakeFiles/provider.dir/__/friend.pb.cc.o  -o ../../../bin/provider   -L"/home/ysl123456/daima c++/mprpc/lib"  -Wl,-rpath,"/home/ysl123456/daima c++/mprpc/lib:/usr/local/lib" ../../../lib/libmprpc.a /usr/local/lib/libprotobuf.so -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 

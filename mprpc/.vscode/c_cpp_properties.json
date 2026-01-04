@@ -1,0 +1,30 @@
+{//c_cpp_properties.json 专门控制 C/C++ 扩展的 includePath、编译器、标准等，才决定红线消不消失
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/local/include",
+                "${workspaceFolder}/example",
+                "${workspaceFolder}/example/**",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/src/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "/usr/local/include",
+                    "${workspaceFolder}/example",
+                    "${workspaceFolder}/example/**",
+                    "${workspaceFolder}/src",
+                    "${workspaceFolder}/src/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/mprpcapplication.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/mprpcconfig.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/rpcheader.pb.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/rpcprovider.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/mprpcchannel.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/mprpccontroller.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/logger.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/src",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\"  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c \"/home/ysl123456/daima c++/mprpc/src/zookeeperutil.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\" -I\"/home/ysl123456/daima c++/mprpc/example/callee/..\"  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c \"/home/ysl123456/daima c++/mprpc/example/callee/friendservice.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\" -I\"/home/ysl123456/daima c++/mprpc/example/callee/..\"  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c \"/home/ysl123456/daima c++/mprpc/example/friend.pb.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\" -I\"/home/ysl123456/daima c++/mprpc/example/caller/..\"  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c \"/home/ysl123456/daima c++/mprpc/example/caller/callfriendservice.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/ysl123456/daima c++/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I\"/home/ysl123456/daima c++/mprpc/src/include\" -I\"/home/ysl123456/daima c++/mprpc/example\" -I\"/home/ysl123456/daima c++/mprpc/example/caller/..\"  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c \"/home/ysl123456/daima c++/mprpc/example/friend.pb.cc\"",
+  "file": "/home/ysl123456/daima c++/mprpc/example/friend.pb.cc"
+}
+]

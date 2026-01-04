@@ -1,0 +1,12 @@
+0:12:19 =>[error]firstmessage
+0:12:19 =>[error]first serror
+0:12:19 =>[info]service_name:FriendServiceRpc
+0:12:19 =>[info]method_name:GetFriendsList
+0:17:9 =>[error]firstmessage
+0:17:9 =>[error]first serror
+0:17:9 =>[info]service_name:FriendServiceRpc
+0:17:9 =>[info]method_name:GetFriendsList
+0:58:23 =>[error]firstmessage
+0:58:23 =>[error]first serror
+0:58:23 =>[info]service_name:FriendServiceRpc
+0:58:23 =>[info]method_name:GetFriendsList

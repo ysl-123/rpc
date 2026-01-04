@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include",
+                "/usr/local/include/google",
+                "/usr/local/include/google/protobuf",
+                "/usr/include",
+                "/usr/include/google",
+                "/usr/include/google/protobuf"
+            ],
+            "defines": [
+                "GOOGLE_PROTOBUF_NO_RTTI=1",
+                "GOOGLE_PROTOBUF_USE_DLLS=0"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "/usr/local/include",
+                    "/usr/include"
+                ],
+                "limitSymbolsToIncludedHeaders": false
+            }
+        }
+    ],
+    "version": 4
+}

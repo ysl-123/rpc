@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package mprpc;
+/*
+当你调用一个远程函数（RPC）时，你需要告诉服务端
+我要找哪一个 service（类）
+我要调用哪一个 method（函数）
+函数参数 args 的字节数据长度是多少
+你的 RpcHeader 就是干这个的
+*/
+message RpcHeader
+{
+    bytes service_name = 1;
+    bytes method_name = 2;
+    uint32 args_size = 3;
+}
